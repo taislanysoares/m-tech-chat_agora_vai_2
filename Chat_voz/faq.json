@@ -1,0 +1,23 @@
+{
+    "Ola, Bom dia!!": "Bom dia para voce tambem, nom que eu posso ajudar?",
+    "O que é HTML?": "HTML é a linguagem de marcação usada para estruturar o conteúdo das páginas web.",
+    "Qual a diferença entre CSS e HTML?": "HTML é usado para estruturar o conteúdo, enquanto o CSS é usado para estilizar esse conteúdo.",
+    "O que são as tags HTML?": "Tags HTML são os elementos utilizados para estruturar e organizar o conteúdo em uma página web.",
+    "O que é um 'box model' em CSS?": "O box model define o comportamento de uma caixa que envolve cada elemento de uma página web, incluindo margem, borda, preenchimento e conteúdo.",
+    "O que são pseudoclasses em CSS?": "Pseudoclasses são usadas para definir o estilo de um elemento em um estado específico, como :hover para quando o mouse passa sobre um elemento.",
+    "O que é o Flexbox?": "Flexbox é um layout model em CSS que permite criar layouts flexíveis e responsivos com facilidade.",
+    "O que é o Grid Layout em CSS?": "Grid Layout é um sistema de layout baseado em uma grade bidimensional, permitindo criar layouts complexos com facilidade.",
+    "O que é o JavaScript?": "JavaScript é uma linguagem de programação usada para adicionar interatividade às páginas web.",
+    "Qual a diferença entre var, let e const em JavaScript?": "var tem escopo global ou de função, let tem escopo de bloco e const é usado para declarar variáveis imutáveis.",
+    "O que é o DOM?": "O DOM (Document Object Model) é uma representação da estrutura da página web que permite a manipulação dinâmica do conteúdo.",
+    "O que é o conceito de 'event bubbling' em JavaScript?": "Event bubbling é um conceito onde os eventos são propagados de um elemento alvo até o elemento raiz.",
+    "O que é um 'callback' em JavaScript?": "Callback é uma função passada como argumento para outra função, que é executada em algum momento no futuro.",
+    "Qual a diferença entre 'null' e 'undefined' em JavaScript?": "'null' é um valor atribuído a uma variável que indica a ausência de valor, enquanto 'undefined' significa que a variável foi declarada, mas ainda não foi atribuída a nenhum valor.",
+    "O que são 'Promises' em JavaScript?": "Promises são objetos usados para representar o resultado de operações assíncronas em JavaScript.",
+    "O que é AJAX?": "AJAX (Asynchronous JavaScript and XML) é uma técnica para enviar e receber dados do servidor de forma assíncrona sem precisar recarregar a página.",
+    "O que são frameworks em JavaScript?": "Frameworks são conjuntos de bibliotecas e ferramentas que ajudam a desenvolver aplicações web de maneira mais rápida e estruturada.",
+    "O que é o React?": "React é uma biblioteca JavaScript para construir interfaces de usuário dinâmicas e reutilizáveis.",
+    "O que é o Vue.js?": "Vue.js é um framework JavaScript progressivo usado para construir interfaces de usuário e aplicativos de página única.",
+    "O que é o Angular?": "Angular é um framework JavaScript desenvolvido pelo Google para criar aplicativos web dinâmicos de página única.",
+    "O que são componentes em React?": "Componentes em React são unidades reutilizáveis de código que controlam partes da interface de usuário."
+}
